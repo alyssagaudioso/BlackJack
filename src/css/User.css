@@ -1,0 +1,7 @@
+#user {
+    background-color: firebrick;
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    z-index: 1;
+}
